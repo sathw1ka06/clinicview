@@ -1,4 +1,4 @@
-* CliniView - Clinical Image Analysis Platform
+## CliniView - Clinical Image Analysis Platform
 
 CliniView AI is a Flutter-based medical image analysis application that assists healthcare professionals in documenting, reviewing, and comparing clinical cases. The platform integrates AI-powered image analysis with annotation and case management features to streamline clinical workflows.
 
