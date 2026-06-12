@@ -1,4 +1,4 @@
-# cliniview_new
+# cliniview
 
 A new Flutter project.
 
